@@ -26,6 +26,10 @@
  */
 public class FrogJmp {
     public int solution(int X, int Y, int D) {
+        // method 1: using ceil operation
+        // return (int) Math.ceil(1.0 * (Y - X) / D);
+
+        // method 2:
         return (Y - X) / D + ((Y - X) % D == 0 ? 0 : 1);
     }
 }
