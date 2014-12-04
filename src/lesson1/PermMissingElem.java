@@ -26,6 +26,7 @@ package lesson1;
  */
 public class PermMissingElem {
     // swap the ith element and the (A[i]-1)th element, until A[i]=i+1;
+    // 置换群
     public int solution(int[] A) {
         int n = A.length;
         for (int i = 0; i < n; i++) {
