@@ -1,3 +1,5 @@
+package lesson1;
+
 /**
  * Created by yaodh on 2014/12/4.
  * Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.

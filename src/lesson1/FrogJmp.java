@@ -1,3 +1,5 @@
+package lesson1;
+
 /**
  * Created by yaodh on 2014/12/4.
  * <p/>
