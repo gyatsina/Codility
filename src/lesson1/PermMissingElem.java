@@ -2,7 +2,9 @@ package lesson1;
 
 /**
  * Created by yaodh on 2014/12/4.
- * <p/>
+ * PermMissingElem
+ * Find the missing element in a given permutation.
+ * Task description
  * A zero-indexed array A consisting of N different integers is given.
  * The array contains integers in the range [1..(N + 1)], which means that exactly one element is missing.
  * Your goal is to find that missing element.
@@ -35,7 +37,7 @@ public class PermMissingElem {
                 swap(A, i, A[i] - 1);
             }
         }
-        for(int i=0;i<n;i++) {
+        for (int i = 0; i < n; i++) {
             if (A[i] > n) return i + 1;
         }
         return n + 1;
@@ -48,7 +50,7 @@ public class PermMissingElem {
     }
 
     public static void main(String[] args) {
-        int ans = new PermMissingElem().solution(new int[]{5,2,3,1});
+        int ans = new PermMissingElem().solution(new int[]{5, 2, 3, 1});
         System.out.println(ans);
     }
 
