@@ -2,7 +2,7 @@ Codility
 ========
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **10 / 49** problems before 2014/12/6.
+I have solved **19 / 49** problems before 2014/12/6.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
@@ -22,16 +22,16 @@ I have solved **10 / 49** problems before 2014/12/6.
 - [x] [GenomicRangeQuery](https://github.com/acprimer/Codility/blob/master/src/Lesson3/GenomicRangeQuery.java)
 
 ##Lesson 4 [Prefix Sums](https://codility.com/programmers/lessons/4)
-- [ ] [MaxProductOfThree]
-- [ ] [Triangle]
-- [ ] [Distinct]
-- [ ] [NumberOfDiscIntersections]
+- [x] [MaxProductOfThree](https://github.com/acprimer/Codility/blob/master/src/Lesson4/MaxProductOfThree.java)
+- [x] [Triangle](https://github.com/acprimer/Codility/blob/master/src/Lesson4/Triangle.java)
+- [x] [Distinct](https://github.com/acprimer/Codility/blob/master/src/Lesson4/Distinct.java)
+- [x] [NumberOfDiscIntersections](https://github.com/acprimer/Codility/blob/master/src/Lesson4/NumberOfDiscIntersections.java)
 
 ##Lesson 5 [Stacks and Queues](https://codility.com/programmers/lessons/5)
-- [ ] [Brackets]
-- [ ] [Nesting]
-- [ ] [StoneWall]
-- [ ] [Fish]
+- [x] [Brackets](https://github.com/acprimer/Codility/blob/master/src/Lesson5/Brackets.java)
+- [x] [Nesting](https://github.com/acprimer/Codility/blob/master/src/Lesson5/Nesting.java)
+- [x] [StoneWall](https://github.com/acprimer/Codility/blob/master/src/Lesson5/StoneWall.java)
+- [x] [Fish](https://github.com/acprimer/Codility/blob/master/src/Lesson5/Fish.java)
 
 ##Lesson 6 [Leader](https://codility.com/programmers/lessons/6)
 - [ ] [Dominator]
