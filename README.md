@@ -2,7 +2,7 @@ Codility
 ========
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **4 / 49** problems before 2014/12/4.
+I have solved **10 / 49** problems before 2014/12/6.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
@@ -12,14 +12,14 @@ I have solved **4 / 49** problems before 2014/12/4.
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [x] [PermCheck](https://github.com/acprimer/Codility/blob/master/src/lesson2/PermCheck.java)
 - [x] [FrogRiverOne](https://github.com/acprimer/Codility/blob/master/src/lesson2/FrogRiverOne.java)
-- [x] [MissingInteger]
-- [x] [MaxCounters]
+- [x] [MissingInteger](https://github.com/acprimer/Codility/blob/master/src/lesson2/MissingInteger.java)
+- [x] [MaxCounters](https://github.com/acprimer/Codility/blob/master/src/lesson2/MaxCounters.java)
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
-- [x] [PassingCars]
-- [x] [MinAvgTwoSlice]
-- [x] [CountDiv]
-- [x] [GenomicRangeQuery]
+- [x] [PassingCars](https://github.com/acprimer/Codility/blob/master/src/Lesson3/PassingCars.java)
+- [x] [MinAvgTwoSlice](https://github.com/acprimer/Codility/blob/master/src/Lesson3/MinAvgTwoSlice.java)
+- [x] [CountDiv](https://github.com/acprimer/Codility/blob/master/src/Lesson3/CountDiv.java)
+- [x] [GenomicRangeQuery](https://github.com/acprimer/Codility/blob/master/src/Lesson3/GenomicRangeQuery.java)
 
 ##Lesson 4 [Prefix Sums](https://codility.com/programmers/lessons/4)
 - [ ] [MaxProductOfThree]
