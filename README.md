@@ -12,14 +12,14 @@ I have solved **4 / 49** problems before 2014/12/4.
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [x] [PermCheck](https://github.com/acprimer/Codility/blob/master/src/lesson2/PermCheck.java)
 - [x] [FrogRiverOne](https://github.com/acprimer/Codility/blob/master/src/lesson2/FrogRiverOne.java)
-- [ ] [MissingInteger]
-- [ ] [MaxCounters]
+- [x] [MissingInteger]
+- [x] [MaxCounters]
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
-- [ ] [PassingCars]
-- [ ] [MinAvgTwoSlice]
-- [ ] [CountDiv]
-- [ ] [GenomicRangeQuery]
+- [x] [PassingCars]
+- [x] [MinAvgTwoSlice]
+- [x] [CountDiv]
+- [x] [GenomicRangeQuery]
 
 ##Lesson 4 [Prefix Sums](https://codility.com/programmers/lessons/4)
 - [ ] [MaxProductOfThree]
