@@ -2,7 +2,7 @@ Codility
 ========
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **21 / 49** problems before 2014/12/6.
+I have solved **24 / 49** problems before 2014/12/7.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
@@ -38,9 +38,9 @@ I have solved **21 / 49** problems before 2014/12/6.
 - [x] [EquiLeader](https://github.com/acprimer/Codility/blob/master/src/Lesson6/EquiLeader.java)
 
 ##Lesson 7 [Maximum slice problem](https://codility.com/programmers/lessons/7)
-- [ ] [MaxProfit]
-- [ ] [MaxSliceSum]
-- [ ] [MaxDoubleSliceSum]
+- [x] [MaxProfit]
+- [x] [MaxSliceSum]
+- [x] [MaxDoubleSliceSum]
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
 - [ ] [MinPerimeterRectangle]
