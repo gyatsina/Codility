@@ -38,13 +38,13 @@ I have solved **24 / 49** problems before 2014/12/7.
 - [x] [EquiLeader](https://github.com/acprimer/Codility/blob/master/src/Lesson6/EquiLeader.java)
 
 ##Lesson 7 [Maximum slice problem](https://codility.com/programmers/lessons/7)
-- [x] [MaxProfit]
-- [x] [MaxSliceSum]
-- [x] [MaxDoubleSliceSum]
+- [x] [MaxProfit](https://github.com/acprimer/Codility/blob/master/src/Lesson7/MaxProfit.java)
+- [x] [MaxSliceSum](https://github.com/acprimer/Codility/blob/master/src/Lesson7/MaxSliceSum.java)
+- [x] [MaxDoubleSliceSum](https://github.com/acprimer/Codility/blob/master/src/Lesson7/MaxDoubleSliceSum.java)
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
-- [ ] [MinPerimeterRectangle]
-- [ ] [CountFactors]
+- [x] [MinPerimeterRectangle](https://github.com/acprimer/Codility/blob/master/src/Lesson8/MinPerimeterRectangle.java)
+- [x] [CountFactors](https://github.com/acprimer/Codility/blob/master/src/Lesson8/CountFactors.java)
 - [ ] [Peaks]
 - [ ] [Flags]
 
