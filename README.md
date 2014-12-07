@@ -2,7 +2,7 @@ Codility
 ========
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **19 / 49** problems before 2014/12/6.
+I have solved **21 / 49** problems before 2014/12/6.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
@@ -34,8 +34,8 @@ I have solved **19 / 49** problems before 2014/12/6.
 - [x] [Fish](https://github.com/acprimer/Codility/blob/master/src/Lesson5/Fish.java)
 
 ##Lesson 6 [Leader](https://codility.com/programmers/lessons/6)
-- [ ] [Dominator]
-- [ ] [EquiLeader]
+- [x] [Dominator](https://github.com/acprimer/Codility/blob/master/src/Lesson6/Dominator.java)
+- [x] [EquiLeader](https://github.com/acprimer/Codility/blob/master/src/Lesson6/EquiLeader.java)
 
 ##Lesson 7 [Maximum slice problem](https://codility.com/programmers/lessons/7)
 - [ ] [MaxProfit]
