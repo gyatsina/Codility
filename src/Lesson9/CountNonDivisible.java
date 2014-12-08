@@ -2,6 +2,7 @@ package Lesson9;
 
 /**
  * Created by yaodh on 2014/12/8.
+ * https://codility.com/demo/results/demoNE9AF9-5GX/
  * 1. CountNonDivisible
  * Calculate the number of elements of an array that are not divisors of each element.
  * Task description
