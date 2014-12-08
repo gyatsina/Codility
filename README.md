@@ -45,8 +45,8 @@ I have solved **24 / 49** problems before 2014/12/7.
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
 - [x] [MinPerimeterRectangle](https://github.com/acprimer/Codility/blob/master/src/Lesson8/MinPerimeterRectangle.java)
 - [x] [CountFactors](https://github.com/acprimer/Codility/blob/master/src/Lesson8/CountFactors.java)
-- [ ] [Peaks]
-- [ ] [Flags]
+- [x] [Peaks](https://github.com/acprimer/Codility/blob/master/src/Lesson8/Peaks.java)
+- [x] [Flags](https://github.com/acprimer/Codility/blob/master/src/Lesson8/Flags.java)
 
 ##Lesson 9 [Sieve of Eratosthenes](https://codility.com/programmers/lessons/9)
 - [ ] [CountSemiprimes]
@@ -57,8 +57,8 @@ I have solved **24 / 49** problems before 2014/12/7.
 - [ ] [CommonPrimeDivisors]
 
 ##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
-- [ ] [Ladder]
-- [ ] [FibFrog]
+- [x] [Ladder](https://github.com/acprimer/Codility/blob/master/src/Lesson11/Ladder.java)
+- [x] [FibFrog](https://github.com/acprimer/Codility/blob/master/src/Lesson11/FibFrog.java)
 
 ##Lesson 12 [Binary search algorithm](https://codility.com/programmers/lessons/12)
 - [ ] [MinMaxDivision]
