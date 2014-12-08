@@ -49,8 +49,8 @@ I have solved **24 / 49** problems before 2014/12/7.
 - [x] [Flags](https://github.com/acprimer/Codility/blob/master/src/Lesson8/Flags.java)
 
 ##Lesson 9 [Sieve of Eratosthenes](https://codility.com/programmers/lessons/9)
-- [ ] [CountSemiprimes]
-- [ ] [CountNonDivisible]
+- [x] [CountSemiprimes](https://github.com/acprimer/Codility/blob/master/src/Lesson9/CountSemiprimes.java)
+- [x] [CountNonDivisible](https://github.com/acprimer/Codility/blob/master/src/Lesson9/CountNonDivisible.java)
 
 ##Lesson 10 [Euclidean algorithm](https://codility.com/programmers/lessons/10)
 - [ ] [ChocolatesByNumbers]
