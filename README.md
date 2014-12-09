@@ -2,7 +2,7 @@ Codility
 ========
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **24 / 49** problems before 2014/12/7.
+I have solved **36 / 49** problems before 2014/12/7.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
@@ -53,16 +53,16 @@ I have solved **24 / 49** problems before 2014/12/7.
 - [x] [CountNonDivisible](https://github.com/acprimer/Codility/blob/master/src/Lesson9/CountNonDivisible.java)
 
 ##Lesson 10 [Euclidean algorithm](https://codility.com/programmers/lessons/10)
-- [ ] [ChocolatesByNumbers]
-- [ ] [CommonPrimeDivisors]
+- [x] [ChocolatesByNumbers](https://github.com/acprimer/Codility/blob/master/src/Lesson10/ChocolatesByNumbers.java)
+- [x] [CommonPrimeDivisors](https://github.com/acprimer/Codility/blob/master/src/Lesson10/CommonPrimeDivisors.java)
 
 ##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
 - [x] [Ladder](https://github.com/acprimer/Codility/blob/master/src/Lesson11/Ladder.java)
 - [x] [FibFrog](https://github.com/acprimer/Codility/blob/master/src/Lesson11/FibFrog.java)
 
 ##Lesson 12 [Binary search algorithm](https://codility.com/programmers/lessons/12)
-- [ ] [MinMaxDivision]
-- [ ] [NailingPlanks]
+- [x] [MinMaxDivision](https://github.com/acprimer/Codility/blob/master/src/Lesson12/MinMaxDivision.java)
+- [x] [NailingPlanks](https://github.com/acprimer/Codility/blob/master/src/Lesson12/NailingPlanks.java)
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
 - [ ] [AbsDistinct]

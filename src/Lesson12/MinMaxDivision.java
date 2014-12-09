@@ -1,8 +1,10 @@
 package Lesson12;
 
+import java.util.Random;
+
 /**
  * Created by yao on 2014/12/8.
- * https://codility.com/demo/results/demoBXPEWQ-T6C/
+ * https://codility.com/demo/results/demo4327W6-EVB/
  * 1. MinMaxDivision
  * Divide array A into K blocks and minimize the largest sum of any block.
  * Task description
@@ -47,22 +49,20 @@ package Lesson12;
 public class MinMaxDivision {
     public int solution(int K, int M, int[] A) {
         int n = A.length;
-        int sum = 0;
+        int sum = 0, max = 0;
         for (int i = 0; i < n; i++) {
             sum += A[i];
+            max = Math.max(max, A[i]);
         }
-        int left = M, right = sum, ans = sum;
+        int left = max, right = sum;
         while (left <= right) {
             int mid = (left + right) >> 1;
             int intervals = countIntervals(A, mid);
-            if(intervals == K) {
-                ans = Math.min(ans, mid);
-            }
             if (intervals > K) {
                 left = mid + 1;
             } else right = mid - 1;
         }
-        return ans;
+        return left;
     }
 
     private int countIntervals(int[] A, int target) {
@@ -101,7 +101,7 @@ public class MinMaxDivision {
     }*/
 
     public static void main(String[] args) {
-        int ans = new MinMaxDivision().solution(3, 5, new int[]{2, 1, 5, 1, 2, 2, 2});
+        int ans = new MinMaxDivision().solution(1, 5, new int[]{0});
         System.out.println(ans);
     }
 }
