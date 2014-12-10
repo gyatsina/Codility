@@ -1,7 +1,5 @@
 package Lesson12;
 
-import java.util.Random;
-
 /**
  * Created by yao on 2014/12/8.
  * https://codility.com/demo/results/demo4327W6-EVB/

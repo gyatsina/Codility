@@ -2,7 +2,7 @@ Codility
 ========
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **36 / 49** problems before 2014/12/7.
+I have solved **38 / 49** problems before 2014/12/9.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
@@ -65,8 +65,8 @@ I have solved **36 / 49** problems before 2014/12/7.
 - [x] [NailingPlanks](https://github.com/acprimer/Codility/blob/master/src/Lesson12/NailingPlanks.java)
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
-- [ ] [AbsDistinct]
-- [ ] [CountTriangles]
+- [x] [AbsDistinct](https://github.com/acprimer/Codility/blob/master/src/Lesson13/AbsDistinct.java)
+- [x] [CountTriangles](https://github.com/acprimer/Codility/blob/master/src/Lesson13/CountTriangles.java)
 - [ ] [CountDistinctSlices]
 - [ ] [MinAbsSumOfTwo]
 
