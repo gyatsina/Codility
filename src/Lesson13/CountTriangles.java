@@ -35,11 +35,12 @@ import java.util.Arrays;
  */
 public class CountTriangles {
     // O(n^2)
+    //https://codility.com/demo/results/demoHFCK86-FBV/
     public int solution(int[] A) {
         Arrays.sort(A);
         int ans = 0, n = A.length;
         for (int i = 0; i < n - 2; i++) {
-            int k = 0;
+            int k = 0;  // k is init here
             for (int j = i + 1; j < n - 1; j++) {
                 while (k < n && A[i] + A[j] > A[k]) {
                     k++;
