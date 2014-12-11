@@ -67,7 +67,7 @@ I have solved **38 / 49** problems before 2014/12/9.
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
 - [x] [AbsDistinct](https://github.com/acprimer/Codility/blob/master/src/Lesson13/AbsDistinct.java)
 - [x] [CountTriangles](https://github.com/acprimer/Codility/blob/master/src/Lesson13/CountTriangles.java)
-- [ ] [CountDistinctSlices]
+- [x] [CountDistinctSlices](https://github.com/acprimer/Codility/blob/master/src/Lesson13/CountDistinctSlices.java)
 - [ ] [MinAbsSumOfTwo]
 
 ##Lesson 14 [Greedy algorithms](https://codility.com/programmers/lessons/15)
