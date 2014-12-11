@@ -68,7 +68,7 @@ I have solved **38 / 49** problems before 2014/12/9.
 - [x] [AbsDistinct](https://github.com/acprimer/Codility/blob/master/src/Lesson13/AbsDistinct.java)
 - [x] [CountTriangles](https://github.com/acprimer/Codility/blob/master/src/Lesson13/CountTriangles.java)
 - [x] [CountDistinctSlices](https://github.com/acprimer/Codility/blob/master/src/Lesson13/CountDistinctSlices.java)
-- [ ] [MinAbsSumOfTwo]
+- [x] [MinAbsSumOfTwo](https://github.com/acprimer/Codility/blob/master/src/Lesson13/MinAbsSumOfTwo.java)
 
 ##Lesson 14 [Greedy algorithms](https://codility.com/programmers/lessons/15)
 - [ ] [TieRopes]
