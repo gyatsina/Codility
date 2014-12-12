@@ -71,8 +71,8 @@ I have solved **38 / 49** problems before 2014/12/9.
 - [x] [MinAbsSumOfTwo](https://github.com/acprimer/Codility/blob/master/src/Lesson13/MinAbsSumOfTwo.java)
 
 ##Lesson 14 [Greedy algorithms](https://codility.com/programmers/lessons/15)
-- [ ] [TieRopes]
-- [ ] [MaxNonoverlappingSegments]
+- [x] [TieRopes](https://github.com/acprimer/Codility/blob/master/src/Lesson14/TieRopes.java)
+- [x] [MaxNonoverlappingSegments](https://github.com/acprimer/Codility/blob/master/src/Lesson14/MaxNonoverlappingSegments.java)
 
 ##Lesson 15 [Dynamic programming](https://codility.com/programmers/lessons/16)
 - [ ] [NumberSolitaire]

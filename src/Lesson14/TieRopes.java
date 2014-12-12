@@ -2,6 +2,9 @@ package Lesson14;
 
 /**
  * Created by yaodh on 2014/12/11.
+ * 1. TieRopes
+ * Tie adjacent ropes to achieve the maximum number of ropes of length >= K.
+ * Task description
  * There are N ropes numbered from 0 to N − 1, whose lengths are given in a zero-indexed array A,
  * lying on the floor in a line. For each I (0 ≤ I < N), the length of rope I on the line is A[I].
  * We say that two ropes I and I + 1 are adjacent.
@@ -47,7 +50,16 @@ package Lesson14;
  * Elements of input arrays can be modified.
  */
 public class TieRopes {
+    // https://codility.com/demo/results/demoFK9EV8-MTR/
     public int solution(int K, int[] A) {
-        return 0;
+        int ans = 0, sum = 0;
+        for (int i = 0; i < A.length; i++) {
+            sum += A[i];
+            if (sum >= K) {
+                ans++;
+                sum = 0;
+            }
+        }
+        return ans;
     }
 }
