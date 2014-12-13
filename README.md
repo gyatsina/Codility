@@ -5,15 +5,15 @@ My answers to [Codility](https://codility.com/programmers/lessons/)
 I have solved **48 / 49** problems before 2014/12/9.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
-- [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
-- [x] [FrogJmp](https://github.com/acprimer/Codility/blob/master/src/lesson1/FrogJmp.java)
-- [x] [PermMissingElem](https://github.com/acprimer/Codility/blob/master/src/lesson1/PermMissingElem.java)
+- [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/Lesson1/TapeEquilibrium.java)
+- [x] [FrogJmp](https://github.com/acprimer/Codility/blob/master/src/Lesson1/FrogJmp.java)
+- [x] [PermMissingElem](https://github.com/acprimer/Codility/blob/master/src/Lesson1/PermMissingElem.java)
 
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
-- [x] [PermCheck](https://github.com/acprimer/Codility/blob/master/src/lesson2/PermCheck.java)
-- [x] [FrogRiverOne](https://github.com/acprimer/Codility/blob/master/src/lesson2/FrogRiverOne.java)
-- [x] [MissingInteger](https://github.com/acprimer/Codility/blob/master/src/lesson2/MissingInteger.java)
-- [x] [MaxCounters](https://github.com/acprimer/Codility/blob/master/src/lesson2/MaxCounters.java)
+- [x] [PermCheck](https://github.com/acprimer/Codility/blob/master/src/Lesson2/PermCheck.java)
+- [x] [FrogRiverOne](https://github.com/acprimer/Codility/blob/master/src/Lesson2/FrogRiverOne.java)
+- [x] [MissingInteger](https://github.com/acprimer/Codility/blob/master/src/Lesson2/MissingInteger.java)
+- [x] [MaxCounters](https://github.com/acprimer/Codility/blob/master/src/Lesson2/MaxCounters.java)
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
 - [x] [PassingCars](https://github.com/acprimer/Codility/blob/master/src/Lesson3/PassingCars.java)
