@@ -2,7 +2,7 @@ Codility
 ========
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **38 / 49** problems before 2014/12/9.
+I have solved **48 / 49** problems before 2014/12/9.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/acprimer/Codility/blob/master/src/lesson1/TapeEquilibrium.java)
@@ -75,12 +75,12 @@ I have solved **38 / 49** problems before 2014/12/9.
 - [x] [MaxNonoverlappingSegments](https://github.com/acprimer/Codility/blob/master/src/Lesson14/MaxNonoverlappingSegments.java)
 
 ##Lesson 15 [Dynamic programming](https://codility.com/programmers/lessons/16)
-- [ ] [NumberSolitaire]
+- [x] [NumberSolitaire](https://github.com/acprimer/Codility/blob/master/src/Lesson14/MaxNonoverlappingSegments.java)
 - [ ] [MinAbsSum]
 
 ##Lesson 99 [Future training](https://codility.com/programmers/lessons/14)
-- [ ] [TreeHeight]
-- [ ] [StrSymmetryPoint]
-- [ ] [OddOccurrencesInArray]
-- [ ] [BinaryGap]
-- [ ] [ArrayInversionCount]
+- [x] [TreeHeight](https://github.com/acprimer/Codility/blob/master/src/Lesson99/TreeHeight.java)
+- [x] [StrSymmetryPoint](https://github.com/acprimer/Codility/blob/master/src/Lesson99/StrSymmetryPoint.java)
+- [x] [OddOccurrencesInArray](https://github.com/acprimer/Codility/blob/master/src/Lesson99/OddOccurrencesInArray.java)
+- [x] [BinaryGap](https://github.com/acprimer/Codility/blob/master/src/Lesson99/BinaryGap.java)
+- [x] [ArrayInversionCount](https://github.com/acprimer/Codility/blob/master/src/Lesson99/ArrayInversionCount.java)
