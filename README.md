@@ -84,3 +84,5 @@ I have solved **48 / 49** problems before 2014/12/9.
 - [x] [OddOccurrencesInArray](https://github.com/acprimer/Codility/blob/master/src/Lesson99/OddOccurrencesInArray.java)
 - [x] [BinaryGap](https://github.com/acprimer/Codility/blob/master/src/Lesson99/BinaryGap.java)
 - [x] [ArrayInversionCount](https://github.com/acprimer/Codility/blob/master/src/Lesson99/ArrayInversionCount.java)
+
+##[Challenges](https://codility.com/programmers/challenges/)
